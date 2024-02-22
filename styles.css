@@ -1,0 +1,99 @@
+html, head, body {
+    background-color: blanchedalmond;
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+}
+
+footer {
+    padding: 10px;
+    margin: 10px;
+}
+
+h1 {
+    text-decoration: underline;
+    text-decoration-color: saddlebrown;
+}
+
+h2 {
+    font-size: 300%;
+}
+
+h3 {
+    font-size: 120%;
+}
+
+h4 {
+    margin: 0px;
+    padding-left: 50px;
+    font-size: 125%;
+    font-weight: normal;
+}
+
+h5 {
+    font-size: 125%;
+    text-align: center;
+}
+
+p {
+    margin: 0px;
+    padding-left: 50px;
+    font-size: 110%;
+}
+
+ul {
+    margin: 0px;
+    padding-left: 100px;
+    font-size: 110%;
+}
+
+.background {
+    padding: 0px;
+    margin: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-image: url("images/summary.png");
+}
+
+.about {
+    width: 50%;   
+    padding-left: 25%;
+    padding-top: 20vh;
+}
+
+.about2 {
+    background-color: rgba(255,255,255,0.3);
+    text-align: center;
+    padding: 20px;
+}
+
+.social a {
+    text-decoration: none;
+}
+
+.profile-picture {
+    width: 20%;
+    height: 20%;
+    padding: 10px;
+}
+
+.icons {
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+}
+
+.resume {
+    width: 50%;
+    padding-left: 25%;
+}
+
+.education, .work, .skills {
+    border-bottom: 2px solid gray;
+    padding-bottom: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
